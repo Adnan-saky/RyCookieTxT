@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440001",
+    "Keyword": "btw",
+    "Content": "by the way",
+    "Group": "Common",
+    "IsEnabled": true,
+    "CreatedDate": "2025-11-27T00:00:00",
+    "ModifiedDate": "2025-11-27T00:00:00"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440002",
+    "Keyword": "omw",
+    "Content": "on my way",
+    "Group": "Common",
+    "IsEnabled": true,
+    "CreatedDate": "2025-11-27T00:00:00",
+    "ModifiedDate": "2025-11-27T00:00:00"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440003",
+    "Keyword": "brb",
+    "Content": "be right back",
+    "Group": "Common",
+    "IsEnabled": true,
+    "CreatedDate": "2025-11-27T00:00:00",
+    "ModifiedDate": "2025-11-27T00:00:00"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440004",
+    "Keyword": "addr",
+    "Content": "123 Main Street\nCity, State 12345",
+    "Group": "Personal",
+    "IsEnabled": true,
+    "CreatedDate": "2025-11-27T00:00:00",
+    "ModifiedDate": "2025-11-27T00:00:00"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440005",
+    "Keyword": "sig",
+    "Content": "Best regards,\nYour Name\nyour.email@example.com",
+    "Group": "Email",
+    "IsEnabled": true,
+    "CreatedDate": "2025-11-27T00:00:00",
+    "ModifiedDate": "2025-11-27T00:00:00"
+  }
+]
